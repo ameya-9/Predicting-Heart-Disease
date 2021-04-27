@@ -33,3 +33,6 @@ In this project , we would classify presence of heart disease on the basis of gi
   Is there a correlation between thalach (maximum heart rate achivied) , to heart disease and if there is how strong?
   What gender individual are more prone to heart disease ?
  
+##Conclusion: 
+K-Nearnest Neighbour with k as 3 is has accuracy 83.60% to classify presence of heart disease while Decision Tree classifier has accuracy of 73.77%
+ 
